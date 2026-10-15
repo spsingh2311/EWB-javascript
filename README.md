@@ -8,16 +8,6 @@
 ## Project overview
 This repository contains six interactive JavaScript assignment pages, separate reusable JavaScript source files, expected-output notes, and a featured Product Inventory & Analytics Dashboard mini project.
 
-## Live deployment on GitHub Pages
-1. Upload the *contents* of this project folder to the root of your GitHub repository (not the ZIP file itself).
-2. Confirm that `index.html` is in the repository root and that `assets/`, `assignments/`, `js/`, and `mini-project/` are also in the root.
-3. Open **Settings → Pages**.
-4. Under **Build and deployment**, choose **Deploy from a branch**.
-5. Select branch `main` and folder `/(root)`, then click **Save**.
-6. Wait for the deployment status to finish, then use **Visit site**. The expected project URL pattern is `https://USERNAME.github.io/REPOSITORY/`.
-
-> If GitHub Pages shows 404, first verify that the filename is exactly `index.html` (not `index (1).html`), it is at the repository root, and Pages is publishing `main` / `/(root)`. File and folder names are case-sensitive.
-
 ## Run locally
 No installation or build step is needed. Open `index.html` in a modern browser. For the best experience, use a simple local web server or GitHub Pages so all linked files are served from the same folder.
 
